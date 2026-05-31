@@ -14,13 +14,14 @@ Complete:
 
 `module8_pandas_integration_guided_lab.ipynb`
 
-## GitHub Classroom Assignment Link
 
-This module is part of the Module 7-8 assignment package. Canvas will provide the GitHub Classroom invitation link if you have not already accepted this package:
+## GitHub Repository and Running Environment
 
-**GitHub Classroom invitation link:** [to be added]
+This module is part of the Module 7-8 package. Use the same repository you created from this public template repository:
 
-If you already accepted the Module 7-8 assignment, return to the same personal assignment repository and reopen your Codespace. If the repository does not open or GitHub says you do not have access, check the GitHub notifications inbox in the upper-right corner of GitHub, or go to `https://github.com/notifications`, and accept any pending repository or organization invitation from GitHub Classroom.
+https://github.com/tianhaiz/ban6003-week-07-08-aggregation-integration-template
+
+Continue working in your own repository, not the instructor template. You may use Codespaces or your local conda/Jupyter environment. Make sure your repository is public, or invite `zzz1990771` / `zzz1990771@gmail.com` if it is private. Submit your GitHub repository link or completed files through Canvas.
 
 ## What You Will Practice
 
@@ -28,7 +29,7 @@ You will practice identifying key columns, checking key uniqueness, using `pd.me
 
 ## Recommended Workflow
 
-1. Open the notebook in GitHub Codespaces.
+1. Open the notebook in Codespaces or local Jupyter.
 2. Run the setup cells.
 3. Inspect the tables and possible keys.
 4. Check key uniqueness before merging.
@@ -36,7 +37,7 @@ You will practice identifying key columns, checking key uniqueness, using `pd.me
 6. Complete all Your Turn exercises.
 7. Build the final integrated table.
 8. Write the final reflection.
-9. Save, commit, and push your work.
+9. Save your work, then commit and push if using GitHub.
 
 ## What to Pay Attention To
 
