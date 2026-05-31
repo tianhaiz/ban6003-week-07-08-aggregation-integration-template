@@ -3,7 +3,11 @@
 **BAN 6003: Data Management and Analytics Integration**  
 **Weeks 7-8 GitHub Template**
 
-This repository contains the notebooks and guidance for this assignment package. The grouping is designed to reduce setup overhead while keeping related skills together.
+This repository contains the notebooks, data files, environment files, and local check scripts for this assignment package. Detailed lab instructions are provided in Canvas/LMS.
+
+## Canvas / LMS Lab Guide
+
+Read the Canvas/LMS lab guide before working in this repository. The LMS page contains the detailed workflow, submission instructions, and any module-specific notes. This README is only a quick repository checklist.
 
 ## Required Notebooks
 
