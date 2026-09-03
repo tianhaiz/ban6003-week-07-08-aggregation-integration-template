@@ -3,7 +3,7 @@
 **BAN 6003: Data Management and Analytics Integration**  
 **Weeks 7-8 GitHub Template**
 
-This repository contains the notebooks, data files, environment files, and local check scripts for this assignment package. Detailed lab instructions are provided in Canvas/LMS.
+This repository contains the notebooks and environment files for this assignment package. Detailed lab instructions are provided in Canvas/LMS.
 
 ## Canvas / LMS Lab Guide
 
@@ -14,9 +14,16 @@ Read the Canvas/LMS lab guide before working in this repository. The LMS page co
 - `notebooks/module7_aggregation_reshaping_guided_lab.ipynb`
 - `notebooks/module8_pandas_integration_guided_lab.ipynb`
 
-## Required Files
+## Data and Outputs
 
-- No local data files are required.
+- No local input files are required; both notebooks use `nycflights13`.
+- Completed outputs belong in `data/processed` and are not included in the template.
+
+Expected outputs:
+
+- `data/processed/carrier_month_summary_module7.csv`
+- `data/processed/route_performance_module7.csv`
+- `data/processed/integrated_jfk_july_flights_module8.csv`
 
 ## How to Work
 
@@ -28,13 +35,6 @@ Read the Canvas/LMS lab guide before working in this repository. The LMS page co
 6. Complete all `Your Turn`, exercise, checkpoint, and reflection sections.
 7. Save your notebooks and required outputs.
 8. Submit your GitHub repository link through Canvas.
-
-## Completion Check
-
-Your instructor may run a local completion and reproducibility check after submission. The check is designed to support the automatic portion of the lab grade. It verifies that required files exist, notebooks run when possible, marked code cells have real code, required output-producing cells have output after execution, and written response placeholders have been replaced.
-
-The check does not evaluate the quality of your interpretation. Your instructor may grade the remaining portion manually using the assignment rubric.
-
 
 ## Submit
 
